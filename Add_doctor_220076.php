@@ -31,11 +31,10 @@
 				<td>
 				 <input type="submit" name="save" value="SAVE">
 				 <input type="reset" name="reset" value="RESET">
-				 <li class="selected"><a href="index.php">back</a></li>
 				</td>
 			 </tr>
 			<table>
 	</form>
-	
+		<p><a href="read_doctor_220076.php">CANCEL</a></p>
 </body>
 </html>
